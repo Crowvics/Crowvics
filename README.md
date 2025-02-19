@@ -1,9 +1,7 @@
 ### Bem vindo(a) ao meu perfil! 👋
 
-Me chamo Victor Luz, estou atualmente cursando o 5º período de Ciência da Computação no IF Sudeste MG - Campus Rio Pomba
+Me chamo Victor Luz, estou atualmente cursando o 8º período de Ciência da Computação no IF Sudeste MG - Campus Rio Pomba
 
-- 🔭 Hoje trabalho com Java. 
-- 🌱 Estudando Front-End. 
 - 👯 Atualmente procurando trabalho de meio período ou vaga de estágio. 
 
 
