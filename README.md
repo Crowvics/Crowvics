@@ -1,7 +1,10 @@
-<h1>Hi, I'm Victor Luz, welcome to my profile! </br>
+<h1>Hi, I'm Victor Luz, welcome to my profile! <br/>
 🎓 Bachelor in Computer Science <br/>
 🛡️ Aspiring Cybersecurity Professional – SOC Analyst N1
 </h1>
+
+<h2>💻 Portfolio of Projects and Labs:</h2>
+<p>Check out my hands-on cybersecurity projects and labs here: <a href="https://crowvics.github.io/index.html" target="_blank">crowvics.github.io</a></p>
 
 <h2>📜 Certifications: </h2>
 <ul>
@@ -13,9 +16,16 @@
   </li>
 </ul>
 
-<h2>🌐 Languages: </h3>
+<h2>🌐 Languages: </h2>
 <ul>
-  <li><b>English</b> – advanced reading (C1), intermediate speaking (B2), and intermediate writing (B1).</li>
+  <li><b>English</b> – advanced reading and comprehension (C1), intermediate speaking (B2), and intermediate writing (B1).</li>
 </ul>
+
+<h2>📫 Contact</h2>
+<ul>
+  <li>Email: <a href="mailto:victorluzribeiro@gmail.com">victorluzribeiro@gmail.com</a></li>
+</ul>
+
+
 
 
