@@ -18,7 +18,8 @@
 
 <h2>🌐 Languages: </h2>
 <ul>
-  <li><b>English</b> – advanced reading and comprehension (C1), intermediate speaking (B2), and intermediate writing (B1).</li>
+  <li><b>English</b> – B2</li>
+  <li><b>German</b> – A1</li>
 </ul>
 
 <h2>📫 Contact</h2>
