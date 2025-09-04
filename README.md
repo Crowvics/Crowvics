@@ -18,8 +18,8 @@
 
 <h2>🌐 Languages: </h2>
 <ul>
-  <li><b>English</b> – B2</li>
-  <li><b>German</b> – A1</li>
+  <li><b>English</b> – Intermediate (B2).</li>
+  <li><b>German</b> – Beginner (A1).</li>
 </ul>
 
 <h2>📫 Contact</h2>
