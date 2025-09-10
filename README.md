@@ -1,9 +1,10 @@
 <h1>Victor Luz</h1>
 
 <p>
-  Bachelor in Computer Science from the Federal Institute of Education, Science and Technology of Southeast Minas Gerais – Campus Rio Pomba.<br/>
-  Aspiring Cybersecurity Professional, currently developing expertise as a Level 1 SOC Analyst.
+  Bachelor in Computer Science from the Federal Institute of Education, Science and Technology of Southeast Minas Gerais &ndash; Campus Rio Pomba. Aspiring Cybersecurity Professional, currently developing expertise as a Level 1 SOC Analyst.
 </p>
+
+<hr/>
 
 <h2>🔐 Portfolio</h2> <p> Explore my projects and practical labs focused on cybersecurity at <a href="https://crowvics.github.io/index.html" target="_blank">crowvics.github.io</a> </p>
 
@@ -19,11 +20,15 @@
   </li>
 </ul>
 
+<hr/>
+
 <h2>🌐 Languages</h2>
 <ul>
   <li><strong>English</strong> – Intermediate (B2)</li>
   <li><strong>German</strong> – Beginner (A1)</li>
 </ul>
+
+<hr/>
 
 <h2>📫 Contact</h2>
 <ul>
