@@ -1,7 +1,7 @@
 <h1>Victor Luz</h1>
 
 <p>
-  Bachelor in Computer Science from the Federal Institute of Education, Science and Technology of Southeast Minas Gerais &ndash; Campus Rio Pomba. Aspiring Cybersecurity Professional, currently developing expertise as a SOC Analyst Level 1.
+  Bachelor in Computer Science from the Federal Institute of Education, Science and Technology of Southeast Minas Gerais &ndash; Campus Rio Pomba. Aspiring Cybersecurity Professional, currently developing expertise as a SOC Analyst.
 </p>
 
 <hr/>
