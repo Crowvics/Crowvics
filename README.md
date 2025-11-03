@@ -19,10 +19,10 @@
     <strong><a href="https://crowvics.github.io/certifications/Enap_LGPD.pdf" target="_blank">Introduction to the Brazilian General Data Protection Law (LGPD)</a></strong> – Key concepts of privacy and data protection.
   </li>
   <li>
-    <strong><a href="https://crowvics.github.io/certifications/TryHackMe_PreSecurity.pdf" target="_blank">Pre Security (TryHackMe)</a></strong> – Technical fundamentals for system assessment and defense in cybersecurity.
+    <strong><a href="https://crowvics.github.io/certifications/TryHackMe_PreSecurity.pdf" target="_blank">Pre Security</a></strong> – Technical fundamentals for system assessment and defense in cybersecurity.
   </li>
   <li>
-    <strong><a href="https://crowvics.github.io/certifications/TryHackMe_CyberSecurity101.pdf" target="_blank">Cyber Security 101 (TryHackMe)</a></strong> – Networks, cryptography, Windows/Linux systems, and offensive/defensive tools.
+    <strong><a href="https://crowvics.github.io/certifications/TryHackMe_CyberSecurity101.pdf" target="_blank">Cyber Security 101</a></strong> – Networks, cryptography, Windows/Linux systems, and offensive/defensive tools.
   </li>
 </ul>
 
