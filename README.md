@@ -13,10 +13,16 @@
 <h2>📜 Certifications</h2>
 <ul>
   <li>
-    <strong><a href="https://crowvics.github.io/certifications/Google_cybersecurity.pdf" target="_blank">Google Cybersecurity Certificate</a></strong> – Fundamentals of cybersecurity, including Linux, SQL, and Python.
+    <strong><a href="https://crowvics.github.io/certifications/Google_cybersecurity.pdf" target="_blank">Google Cybersecurity</a></strong> – Fundamentals of cybersecurity, including Linux, SQL, and Python.
   </li>
   <li>
     <strong><a href="https://crowvics.github.io/certifications/Enap_LGPD.pdf" target="_blank">Introduction to the Brazilian General Data Protection Law (LGPD)</a></strong> – Key concepts of privacy and data protection.
+  </li>
+  <li>
+    <strong><a href="https://crowvics.github.io/certifications/TryHackMe_PreSecurity.pdf" target="_blank">Pre Security (TryHackMe)</a></strong> – Technical fundamentals for system assessment and defense in cybersecurity.
+  </li>
+  <li>
+    <strong><a href="https://crowvics.github.io/certifications/TryHackMe_CyberSecurity101.pdf" target="_blank">Cyber Security 101 (TryHackMe)</a></strong> – Networks, cryptography, Windows/Linux systems, and offensive/defensive tools.
   </li>
 </ul>
 
@@ -24,7 +30,7 @@
 
 <h2>🌐 Languages</h2>
 <ul>
-  <li><strong>English</strong> – Intermediate (B2)</li>
+  <li><strong>English</strong> – Advanced (C1)</li>
   <li><strong>German</strong> – Beginner (A1)</li>
 </ul>
 
