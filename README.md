@@ -24,6 +24,9 @@
   <li>
     <strong><a href="https://crowvics.github.io/certifications/TryHackMe_CyberSecurity101.pdf" target="_blank">Cyber Security 101</a></strong> – Networks, cryptography, Windows/Linux systems, and offensive/defensive tools.
   </li>
+  <li>
+    <strong><a href="https://crowvics.github.io/certifications/TryHackMe_SOCL1.pdf" target="_blank">SOC Level 1 (TryHackMe)</a></strong> – Alert triage and investigation, SIEM log analysis (Splunk/Elastic), threat detection, and application of threat intelligence for incident prioritization.
+  </li>
 </ul>
 
 <hr/>
